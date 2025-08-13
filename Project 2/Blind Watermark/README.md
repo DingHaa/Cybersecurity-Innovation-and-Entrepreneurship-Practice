@@ -23,7 +23,7 @@
 
 整体流程如下图，接下来对各个阶段做详细的解释。
 
-![水印嵌入流程](picture/Watermark embedding flow chart.png)
+![水印嵌入流程](picture/Watermark_embedding_flow_chart.png)
 
 #### 2.1.1 水印二进制化
 
@@ -88,7 +88,7 @@ embed_img = yuv2rgb(embed_YUV)
 
 水印的提取过程是嵌入的逆过程。整体流程如下图：
 
-![提取流程](picture/Watermark extraction flow chart.png)
+![提取流程](picture/Watermark_extraction_flow_chart.png)
 
 #### 2.2.1 图片数据预处理
 
