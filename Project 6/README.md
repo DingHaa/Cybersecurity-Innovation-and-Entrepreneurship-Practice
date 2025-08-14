@@ -45,7 +45,7 @@ Paillier是一个**加法同态加密**方案，它具有以下优良特性：
 
 协议严格按照下图所示流程执行，分为四个主要阶段：
 
-![Protocol Diagram](figure\Protocol_Diagram.png)
+![Protocol Diagram](figure/Protocol_Diagram.png)
 
 - **输入 (Inputs)**
   - **P1**: 持有标识符集合 $V = \{v_i\}$。
